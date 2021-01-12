@@ -1,0 +1,8 @@
+name: stn-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pytorch
+  - torchvision
