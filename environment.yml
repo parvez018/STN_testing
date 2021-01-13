@@ -6,3 +6,4 @@ dependencies:
   - matplotlib
   - pytorch
   - torchvision
+  - typing_extensions
